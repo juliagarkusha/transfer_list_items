@@ -1,0 +1,11 @@
+.list {
+  margin-bottom: 8px;
+  margin-left: 16px;
+
+  &__card {
+    border: 1px solid darkblue;
+    padding: 20px;
+    border-radius: 8px;
+  }
+}
+
